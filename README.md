@@ -174,43 +174,6 @@ All projects generate at least 3 user stories and tasks grouped by category.
    - Click on a recent spec to view it again
    - Click ✕ to delete a spec
 
-## Environment Variables
-
-### Backend (.env)
-```
-PORT=5000
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/task-generator?retryWrites=true&w=majority
-JWT_SECRET=your_jwt_secret_key_here_change_in_production
-```
-
-## Development
-
-### Running Both Servers
-
-Terminal 1 (Backend):
-```bash
-cd backend
-npm run dev
-```
-
-Terminal 2 (Frontend):
-```bash
-cd frontend
-npm run dev
-```
-
-### Building for Production
-
-Backend:
-```bash
-npm start
-```
-
-Frontend:
-```bash
-npm run build
-npm run preview
-```
 
 ## Future Enhancements
 
