@@ -108,7 +108,6 @@ npm install
 ```bash
 npm run dev
 ```
-
 Frontend runs on `http://localhost:3000`
 
 
