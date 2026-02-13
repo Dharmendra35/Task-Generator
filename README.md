@@ -81,8 +81,8 @@ npm install
 
 3. Create `.env` file with:
 ```
-PORT=5000
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/task-generator?retryWrites=true&w=majority
+PORT=
+MONGO_URI=
 ```
 
 4. Start the server:
