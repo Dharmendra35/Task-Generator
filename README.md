@@ -215,7 +215,6 @@ npm run preview
 ## Future Enhancements
 
 - AI-powered task generation
-- User authentication
 - Team collaboration
 - Task templates
 - Custom task categories
@@ -223,3 +222,4 @@ npm run preview
 
 ## Devleloper
 Dharmendra Kumar
+NIT Agartala
